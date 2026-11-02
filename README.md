@@ -192,7 +192,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [Looot Network](https://github.com/loootai/looot-network) - Open source alternative to Happenstance: search your own LinkedIn, Google Contacts or CSV network in plain language. Built with Next.js 16 and Supabase, MIT, with a demo mode; optional paid enrichment needs a looot API key.
-- [TastyFans](https://tastyfans.com) - Search engine for creators on OnlyFans, Fansly and other subscription platforms (18+), with 50+ filters, natural-language queries and location search. Built with Next.js 16 Cache Components, Drizzle and Typesense.
+- [HornyIndex](https://hornyindex.com) - Search engine for creators on OnlyFans, Fansly and other subscription platforms (18+), with 50+ filters, natural-language queries and location search. Built with Next.js 16 Cache Components, Drizzle and Typesense.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 - [Password](https://github.com/dotcypress/password) - One password, right way.
